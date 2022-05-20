@@ -1,9 +1,11 @@
 ## London Bicycles Hires BigQuery and Cloud SQL
 
 ### Project description
-This data contains the number of hires of London's Santander Cycle Hire Scheme from 2011 to present. Data includes start and stop timestamps, station names and ride duration. This public dataset is hosted in Google BigQuery. 
-https://data.london.gov.uk/
-### Tools & Technologies
+In this project I queried the public dataset that is hosted in Google BigQuery. The data contains the number of hires of London's Santander Cycle Hire Scheme from 2011 to present. The original data can be found [here](https://data.london.gov.uk/).
+
+-----------------------------------------------------------------------------------------
+
+### Queries and Outputs
 
 1. Adding the dataset to Explorer tabe on Google Cloud Platform and reviewing the data:
 
@@ -21,6 +23,11 @@ https://data.london.gov.uk/
 
 ![Most busy days](https://user-images.githubusercontent.com/89424060/169434339-68d90e44-80e4-4ed4-8625-fe4c1628356e.png)
 ![Days_results](https://user-images.githubusercontent.com/89424060/169434605-2f815d23-eb71-41bb-b1fc-e701dc9dba12.png)
+
+### Tools & Technologies
+
++ SQL queries
++ Google Cloud Platform
 
 
 
