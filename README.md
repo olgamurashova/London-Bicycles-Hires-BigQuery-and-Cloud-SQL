@@ -13,5 +13,9 @@ https://data.london.gov.uk/
 
 ![Longest Hire](https://user-images.githubusercontent.com/89424060/169430635-143d1af8-fee2-400e-9007-8ef4bab50d28.png)
 
+3. Filtering the most popular destinations and average durations:
+
+
+
 
 
