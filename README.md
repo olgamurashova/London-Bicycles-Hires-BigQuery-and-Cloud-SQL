@@ -30,6 +30,9 @@ In this project I queried the public dataset that is hosted in Google BigQuery. 
 
 ![Months results](https://user-images.githubusercontent.com/89424060/169436901-ca449c20-11f9-4b80-b199-87ef9ec056d7.png)
 
+6. Comparing bike rental rates in 2016 versus 2017:
+
+
 
 
 
