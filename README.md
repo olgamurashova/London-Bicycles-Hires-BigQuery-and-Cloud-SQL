@@ -36,6 +36,8 @@ In this project I queried the public dataset that is hosted in Google BigQuery. 
 
 7. Calculating total rentals and duration in hours per each year:
 
+![totals](https://user-images.githubusercontent.com/89424060/169612118-895bd7f9-1691-4d5c-a31e-42b839de6e2d.png)
+
 
 
 
