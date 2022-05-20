@@ -17,6 +17,9 @@ https://data.london.gov.uk/
 
 ![Pop destination](https://user-images.githubusercontent.com/89424060/169432095-216129d0-5fa4-474a-b20d-b60b3e00f0cb.png)
 
+4. Finding out what days of week had most of bike hires:
+
+
 
 
 
