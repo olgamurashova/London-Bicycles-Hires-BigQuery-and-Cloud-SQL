@@ -20,6 +20,7 @@ https://data.london.gov.uk/
 4. Finding out what days of week had most of bike hires:
 
 ![Most busy days](https://user-images.githubusercontent.com/89424060/169434339-68d90e44-80e4-4ed4-8625-fe4c1628356e.png)
+![Days_results](https://user-images.githubusercontent.com/89424060/169434605-2f815d23-eb71-41bb-b1fc-e701dc9dba12.png)
 
 
 
