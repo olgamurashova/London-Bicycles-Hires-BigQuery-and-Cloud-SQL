@@ -28,6 +28,8 @@ In this project I queried the public dataset that is hosted in Google BigQuery. 
 
 ![Month](https://user-images.githubusercontent.com/89424060/169436628-8b1b2f0d-b626-4aea-8091-f1093304fcd4.png)
 
+![Months results](https://user-images.githubusercontent.com/89424060/169436901-ca449c20-11f9-4b80-b199-87ef9ec056d7.png)
+
 
 
 
