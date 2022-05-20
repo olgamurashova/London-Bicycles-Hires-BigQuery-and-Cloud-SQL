@@ -15,6 +15,8 @@ https://data.london.gov.uk/
 
 3. Filtering the most popular destinations and average durations:
 
+![Pop destination](https://user-images.githubusercontent.com/89424060/169432095-216129d0-5fa4-474a-b20d-b60b3e00f0cb.png)
+
 
 
 
