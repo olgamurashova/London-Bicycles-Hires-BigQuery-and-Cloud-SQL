@@ -24,7 +24,10 @@ In this project I queried the public dataset that is hosted in Google BigQuery. 
 ![Most busy days](https://user-images.githubusercontent.com/89424060/169434339-68d90e44-80e4-4ed4-8625-fe4c1628356e.png)
 ![Days_results](https://user-images.githubusercontent.com/89424060/169434605-2f815d23-eb71-41bb-b1fc-e701dc9dba12.png)
 
-5. Filtering the seasons/months with low bike hires:
+5. Filtering the seasons/months with low bike rentals:
+
+![Month](https://user-images.githubusercontent.com/89424060/169436628-8b1b2f0d-b626-4aea-8091-f1093304fcd4.png)
+
 
 
 
